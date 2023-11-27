@@ -1,0 +1,10 @@
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\bin\Debug\Task_6.exe.config
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\bin\Debug\Task_6.exe
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\bin\Debug\Task_6.pdb
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.exe
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.pdb
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.Form1.resources
+C:\Users\ASUS\RiderProjects\Lab_11\Task_6\obj\Debug\Task_6.ParametersForm.resources

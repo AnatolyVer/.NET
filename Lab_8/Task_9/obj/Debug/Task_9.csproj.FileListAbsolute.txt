@@ -1,0 +1,20 @@
+D:\VS Project\Lab_8\Task_9\bin\Debug\Task_9.exe.config
+D:\VS Project\Lab_8\Task_9\bin\Debug\Task_9.exe
+D:\VS Project\Lab_8\Task_9\bin\Debug\Task_9.pdb
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.csproj.AssemblyReference.cache
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.csproj.SuggestedBindingRedirects.cache
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.Form1.resources
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.Properties.Resources.resources
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.csproj.GenerateResource.cache
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.csproj.CoreCompileInputs.cache
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.exe
+D:\VS Project\Lab_8\Task_9\obj\Debug\Task_9.pdb
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.Form1.resources
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.exe
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.pdb
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\bin\Debug\Task_9.exe.config
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\bin\Debug\Task_9.exe
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\bin\Debug\Task_9.pdb
+C:\Users\ASUS\RiderProjects\Lab_8\Task_9\obj\Debug\Task_9.csprojResolveAssemblyReference.cache

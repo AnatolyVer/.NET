@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\bin\Release\net7.0\Task_5.exe
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\bin\Release\net7.0\Task_5.deps.json
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\bin\Release\net7.0\Task_5.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\bin\Release\net7.0\Task_5.dll
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\bin\Release\net7.0\Task_5.pdb
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.dll
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\refint\Task_5.dll
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.pdb
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\Task_5.genruntimeconfig.cache
+C:\Users\ASUS\RiderProjects\Lab_3\Task_5\obj\Release\net7.0\ref\Task_5.dll

@@ -1,0 +1,20 @@
+D:\VS Project\Lab_6\Task_8\bin\Debug\Task_8.exe.config
+D:\VS Project\Lab_6\Task_8\bin\Debug\Task_8.exe
+D:\VS Project\Lab_6\Task_8\bin\Debug\Task_8.pdb
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.csproj.AssemblyReference.cache
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.csproj.SuggestedBindingRedirects.cache
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.Form1.resources
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.Properties.Resources.resources
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.csproj.GenerateResource.cache
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.csproj.CoreCompileInputs.cache
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.exe
+D:\VS Project\Lab_6\Task_8\obj\Debug\Task_8.pdb
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\bin\Debug\Task_8.exe.config
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\bin\Debug\Task_8.exe
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\bin\Debug\Task_8.pdb
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.Form1.resources
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.exe
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.pdb
+C:\Users\ASUS\RiderProjects\Lab_6\Task_8\obj\Debug\Task_8.csprojResolveAssemblyReference.cache

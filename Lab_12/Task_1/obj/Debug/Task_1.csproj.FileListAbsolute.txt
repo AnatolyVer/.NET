@@ -1,0 +1,14 @@
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\bin\Debug\Task_1.exe
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\bin\Debug\Task_1.pdb
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.exe
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.pdb
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.RegForm.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.StartForm.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.ProfileForm.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.EditForm.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.SendMessageForm.resources
+C:\Users\ASUS\RiderProjects\Lab_12\Task_1\obj\Debug\Task_1.ReadMessageForm.resources

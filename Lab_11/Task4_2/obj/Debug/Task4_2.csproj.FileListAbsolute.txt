@@ -1,0 +1,10 @@
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.Form2.resources
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\bin\Debug\Task4_2.exe.config
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\bin\Debug\Task4_2.exe
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\bin\Debug\Task4_2.pdb
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.exe
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.pdb
+C:\Users\ASUS\RiderProjects\Lab_11\Task4_2\obj\Debug\Task4_2.Form1.resources

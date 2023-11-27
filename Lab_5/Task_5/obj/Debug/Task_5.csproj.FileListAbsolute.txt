@@ -1,0 +1,9 @@
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\bin\Debug\Task_5.exe
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\bin\Debug\Task_5.pdb
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.csproj.GenerateResource.Cache
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.exe
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.pdb
+C:\Users\ASUS\RiderProjects\Lab_5\Task_5\obj\Debug\Task_5.Form1.resources
